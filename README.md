@@ -47,3 +47,4 @@ GNU General Public License for more details.
 **Miembros del Equipo**
 - [Diego García Muñoz](https://github.com/dgm1003)
 - [Ismael Franco Hernando](https://github.com/ifh1001)
+- [Ignacio Dávila García](https://github.com/idg0015)
